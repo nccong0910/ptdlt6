@@ -12,8 +12,8 @@ Hãy sử dụng phương pháp tính correlation để tìm ra xác suất xu�
 
 <img src="https://i.imgur.com/4AcVGHV.png">
 
-*Bước 2 : _ Tiến hành load dataset "movies.csv" thành một Dataframe
-          _ Tạo ra Pandas Series "genres_list" , dùng hàm lambda áp dụng cho Dataframe "df" nhằm loại bỏ ký tự "|"
+*Bước 2 : <p> _ Tiến hành load dataset "movies.csv" thành một Dataframe<br></p>
+          <p> _ Tạo ra Pandas Series "genres_list" , dùng hàm lambda áp dụng cho Dataframe "df" nhằm loại bỏ ký tự "|"<br></p>
           _ Tạo ra "flat_list" để biến "genres_list" thành một list chung , nhằm thuận tiện cho việc lọc ra tên các thể loại phim
           _ Sử dụng hàm built-in Counter của python để thống kê tần suất của các thể loại & lưu lại tên các thể loại vào "list_check"
 
