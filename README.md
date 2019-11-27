@@ -22,7 +22,7 @@ Hãy sử dụng phương pháp tính correlation để tìm ra xác suất xu�
 
 *Bước 3 : <p> _ Tạo Dataframe "frame" mới tổ chức lại "df" ở trên & nhằm tạo ra các cột dữ liệu mới cho từng thể loại phim<br></p>
 
-<img src="https://i.imgur.com/Q82AOuC.png"
+<img src="https://i.imgur.com/Q82AOuC.png">
 
 *Bước 4 : <p> _ Tạo một vòng lặp for lặp qua toàn bộ các thể loại phim được lưu trữ trong "list_check" ở bước 2<br></p>
           <p> _ Sử dụng kỹ thuật List Comprehension để đưa vào các giá trị 0 & 1 với điều kiện cụ thể : giá trị 1 nếu thể loại phim xuất hiện tương ứng trong "rows" là các hàng của "frame" mới tạo ở trên<br></p>
@@ -30,3 +30,7 @@ Hãy sử dụng phương pháp tính correlation để tìm ra xác suất xu�
           
 <img src="https://i.imgur.com/ENVHQtx.png">
 
+*Bước 5 : <p> _ Tạo hàm correlation để tính toán hệ số tương quan & xem xét mức độ tương đồng ( affinity ) giữa các đối tượng
+          ở đây cụ thể là các thể loại phim </p>
+
+<img src="https://i.imgur.com/vjHeHl4.png">
