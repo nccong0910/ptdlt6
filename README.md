@@ -19,4 +19,7 @@ Hãy sử dụng phương pháp tính correlation để tìm ra xác suất xu�
           <p>_ Sử dụng hàm built-in Counter của python để thống kê tần suất của các thể loại 
           & lưu lại tên các thể loại vào "list_check"<br></p>
 
+<img src="https://i.imgur.com/Q82AOuC.png">
+
+*Bước 3 :
 
