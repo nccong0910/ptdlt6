@@ -6,4 +6,4 @@ Ví dụ: Toy Story và Jumanji có chung thể loại [Adventure, Children, Fan
 Toy Story với 'Tom and Huck' chung thể loại [Adventure, Children]
 Hãy sử dụng phương pháp tính correlation để tìm ra xác suất xuất hiện đồng thời của 2 thể loại phim bất kỳ.
 '''
-<img src="imgur.com/LKXEjxW">
+!<img src="https://imgur.com/LKXEjxW">
