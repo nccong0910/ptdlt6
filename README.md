@@ -9,3 +9,4 @@ Hãy sử dụng phương pháp tính correlation để tìm ra xác suất xu�
 <img src="https://i.imgur.com/LKXEjxW.png">
 *Bước 1 : import các thư viện cần thiết , với pandas để xử lý & tổ chức dữ liệu , scipy để tạo hàm tính toán thống kê
 
+
