@@ -2,7 +2,7 @@
 *BÀI 1 
 '''Các đồ thị trực quan của bài 1 : '''
 
-<img src="https://i.imgur.com/fhQfX55.png">
+<img src="https://i.imgur.com/V1SAY4D.png">
 
 *BÀI 2
 
