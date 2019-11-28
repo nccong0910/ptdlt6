@@ -1,4 +1,11 @@
 # ptdlt6
+*BÀI 1 
+'''Các đồ thị trực quan của bài 1 : '''
+
+<img src="https://i.imgur.com/fhQfX55.png">
+
+*BÀI 2
+
 '''Mỗi bộ phim được phân loại vào nhiều thể loại phim.
 Làm sao có để biết các thể loại phim nào hay xuất hiện cùng nhau trong 1 bộ phim?
 
