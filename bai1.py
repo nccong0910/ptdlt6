@@ -107,3 +107,5 @@ plt.xlabel("3 Genres")
 plt.ylabel("Frequency")
 plt.title("4.Tăng giảm 3 thể loại phổ biến nhất")
 plt.show()
+
+<img src="https://i.imgur.com/fhQfX55.png">
